@@ -1,3 +1,4 @@
 # calculadora
 
-![screencast-Genymotion-2020-04-10_17 43 06 785](https://user-images.githubusercontent.com/63119956/79022286-fa4be000-7b53-11ea-9a52-be69036de840.gif)
+![deepin-screen-recorder_Select area_20200416085301](https://user-images.githubusercontent.com/63119956/79453395-099db400-7fc0-11ea-9cce-9035d15fc834.gif)
+
